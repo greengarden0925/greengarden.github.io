@@ -89,7 +89,7 @@
 - 在演講結束後，觀眾通常會提出問題。可以預先想一些潛在的問題並準備好回答，這樣有助於提高報告的專業性和自信度。
 
 ## 8.範本
-- [範例seminar slide](data/demo seminar.pdf)
+- [範例seminar slide](https://github.com/greengarden0925/greengardenTutorial/blob/f59daa35cf43028cd2e77bb0dec82918b84c2c30/data/demo%20seminar.pdf)
 ---
 
 ## 總結
