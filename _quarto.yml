@@ -8,7 +8,7 @@ book:
   author: "您的名字"
   date: "最後更新日期"
   chapters:
-    - index.qmd
+    - 多篇seminar準備.md
     - intro.qmd
     - chapter1.qmd
     - chapter2.qmd
